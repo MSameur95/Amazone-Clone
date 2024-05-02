@@ -1,0 +1,14 @@
+.product{
+    display: flex;
+}
+
+.main-button{
+    background-color: #f0c14b;
+    color: #111;
+    width: 200px;
+    height: 26px;
+    border-style: solid;
+    border-radius: 3px;
+    vertical-align: middle;
+    cursor: pointer;
+}
